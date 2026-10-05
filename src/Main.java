@@ -6,7 +6,6 @@ import javax.swing.UIManager;
 import servicios.SistemaAutoridades;
 import vista.PanelInscripcion;
 import vista.Panelcharlas;
-
 public class Main {
     public static void main(String[] args) {
         SwingUtilities.invokeLater(() -> {
